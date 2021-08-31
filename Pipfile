@@ -17,6 +17,7 @@ django-ordered-model = "*"
 ipython = "*"
 django-extensions = "*"
 pytest-django = "*"
+heroku = "*"
 
 [dev-packages]
 "flake8" = "*"
